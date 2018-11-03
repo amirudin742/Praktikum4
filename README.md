@@ -423,6 +423,9 @@ cout<<"\n\n\t\t\tProgram Logging Off....";
 
 }
 
+*Berikut adalah flowchartnya
+![img](https://raw.githubusercontent.com/amirudin742/Praktikum4/master/Flowchart.png)
+
 *Hasil Dari Perhitungan Penjualan Barang Toko Sport
 ![img](https://raw.githubusercontent.com/amirudin742/Praktikum4/master/Hasilnya/Hasil1.png)
 ![img](https://raw.githubusercontent.com/amirudin742/Praktikum4/master/Hasilnya/Hasil2.png)
