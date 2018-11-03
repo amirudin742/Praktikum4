@@ -110,7 +110,7 @@ else
 {
     cout<<" Nama Barang     = Bola\n";
     cout<<" Harga           = Rp. 280000,-\n";
-    cout<<" Jumlah Baran    = ";
+    cout<<" Jumlah Barang   = ";
     cin>>N;
     harga=280000;
     total=harga*N;
